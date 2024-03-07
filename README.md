@@ -1,4 +1,4 @@
-# Technical_Day_DS_2024
+# Technical Day Data Scientist
 
 Ce repo contient les fichiers nécessaires à la résolution du test technique DS du Technical Day de DataScientest.
 
