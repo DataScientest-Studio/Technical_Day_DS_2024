@@ -1,0 +1,6 @@
+# Technical_Day_DS_2024
+
+Ce repo contient les fichiers nécessaires à la résolution du test technique DS du Technical Day de DataScientest.
+
+Pour l'instant :
+- fichier "bankchurn.csv" pour la deuxième partie du test technique (use case de Machine Learning)
