@@ -3,5 +3,8 @@
 Ce repo contient les fichiers nécessaires à la résolution du test technique DS du Technical Day 2024 de DataScientest.
 
 Pour l'instant :
-- fichier "titanic.csv"
-- fichier "bankchurn.csv" pour la deuxième partie du test technique (use case de Machine Learning)
+- fichier "titanic.csv" pour la première partie du test technique
+- notebook "Programming.ipynb" pour la première partie du test technique
+- fichier "bankchurn.csv" pour la deuxième partie du test technique
+- notebook "Use_Case_ML.ipynb" pour la deuxième partie du test technique
+- modèle "CatBoost" pour la deuxième partie du test technique
