@@ -6,4 +6,4 @@ Ce repo contient le fichier nécessaire à la résolution du test technique DS d
 - fichier "bankchurn.csv" pour la deuxième partie du test technique
 - notebook "Use_Case_ML.ipynb" pour la deuxième partie du test technique
 - modèle CatBoost pour la deuxième partie du test technique
-- Slides
+- slides "Test Technique DS.pdf"
